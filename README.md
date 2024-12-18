@@ -57,10 +57,11 @@ yarn install
 
 4. Execute a aplicação:
 
-~~~Android
+~~~ Android
 yarn android
 ~~~
-~~~iOS
+
+~~~ iOS
 cd ios
 pod install
 cd ..
